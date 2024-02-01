@@ -1,2 +1,2 @@
 # loserchick_contracts
-loserchick contracts code.
+loserchick contracts code
